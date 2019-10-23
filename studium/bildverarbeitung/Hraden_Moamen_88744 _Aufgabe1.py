@@ -101,3 +101,4 @@ class myclass:
                 pass
 p = myclass("image.jpg")
 p.ausgabe()
+#Hallo
